@@ -1,0 +1,10 @@
+C:\Script\获取剪贴板内容\获取剪贴板内容\bin\Debug\获取剪贴板内容.exe.config
+C:\Script\获取剪贴板内容\获取剪贴板内容\bin\Debug\获取剪贴板内容.exe
+C:\Script\获取剪贴板内容\获取剪贴板内容\bin\Debug\获取剪贴板内容.pdb
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.csprojAssemblyReference.cache
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.Form1.resources
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.Properties.Resources.resources
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.csproj.GenerateResource.cache
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.csproj.CoreCompileInputs.cache
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.exe
+C:\Script\获取剪贴板内容\获取剪贴板内容\obj\Debug\获取剪贴板内容.pdb
